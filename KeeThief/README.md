@@ -10,7 +10,7 @@ https://github.com/0x09AL/RdpThief
 
 ##### PURPOUSE:
 
-The script will look for keepass.exe process every 5s and execute KeeThief assembly once that process if found to extract KeePass master key from memory shortly after it has been entered. 
+The script will look for keepass.exe process every 5s and execute KeeThief assembly once that process is found to extract KeePass master key from memory shortly after it has been entered. 
 
 ##### WHY ?
 
