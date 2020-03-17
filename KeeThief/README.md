@@ -14,7 +14,7 @@ The script will look for keepass.exe process every 5s and execute KeeThief assem
 
 ##### WHY ?
 
-Only for ethical purpouses, and helpful during a pentest where a client requires evidence of what a skill attacker can do once the perimiter has been breached. 
+Only for ethical purpouses, and helpful during a pentest where a client requires evidence of what a skilled attacker can do once the perimiter has been breached. 
 
  ##### HOW TO ?
 
