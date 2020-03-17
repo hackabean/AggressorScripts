@@ -1,26 +1,26 @@
+##### KeeThief Aggressor script
 
-KeeThief
-
-KeeThief Aggressor script
-
-CREDIT:
+##### CREDIT:
 
 https://github.com/HarmJ0y/KeeThief
 
-PURPOUSE:
+based on:
+
+https://github.com/0x09AL/RdpThief
+
+##### PURPOUSE:
 
 The script will look for keepass.exe process every 5s and execute KeeThief assembly once that process if found to extract KeePass master key from memory shortly after it has been entered. 
 
-WHY ?
+##### WHY ?
 
 Only for ethical purpouses, and helpful during a pentest where a client requires evidence of what a skill attacker can do once the perimiter has been breached. 
 
-HOW TO ?
+ ##### HOW TO ?
 
 Enable KeeThief via alias:
 
 `KeeThief_enable`
-
 
 Disable KeeThief via alias:
 
